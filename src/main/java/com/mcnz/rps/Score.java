@@ -10,9 +10,9 @@ public class Score {
 	public void increaseLosses(){
 		losses++;
 	}
-	public void increaseTies(){
+	public void increaseTies()1{
 		ties++;
-	}
+	}1
 	
 	/**
 		<pre>
