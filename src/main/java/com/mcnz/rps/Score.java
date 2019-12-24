@@ -10,7 +10,7 @@ public class Score {
 	public void increaseLosses(){
 		losses++;
 	}
-	public void increaseTies(){
+	public void increaseTies()1{
 		ties++;
 	}
 	
@@ -21,7 +21,7 @@ public class Score {
 		comment 2
 		</pre>
 	 */
-	public String toString() {
+	public String toString() {1
 		String output = "Wins: " + wins + " Ties: " + ties + " Losses: " + losses;
 		return output;
 	}
