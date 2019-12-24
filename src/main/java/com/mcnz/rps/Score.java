@@ -15,8 +15,11 @@ public class Score {
 	}
 	
 	/**
+		<pre>
 		toString: chuyển object thành chuỗi
 		comment 1
+		comment 2
+		</pre>
 	 */
 	public String toString() {
 		String output = "Wins: " + wins + " Ties: " + ties + " Losses: " + losses;
