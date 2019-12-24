@@ -14,7 +14,10 @@ public class Score {
 		ties++;
 	}
 	
-	public String toString(){
+	/**
+	toString: chuyển object thành chuỗi
+	 */
+	public String toString() {
 		String output = "Wins: " + wins + " Ties: " + ties + " Losses: " + losses;
 		return output;
 	}
